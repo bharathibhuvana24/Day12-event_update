@@ -1,1 +1,1 @@
-"# Day12-event_update" 
+"# Day12-event_update page created using bootstrap. A image with thumbnail effect and input boxes are created, some inputs are created with dropdownbuttons. And two buttons created as submit and cancel buttons." 
